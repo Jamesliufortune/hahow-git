@@ -2,5 +2,9 @@ master test
 會用git
 會分支
 活用git
+
 master test
+
+bn-3 test
+
 bn-2 test
